@@ -1,3 +1,3 @@
 <?php
 
-echo "Hello World!";
+echo "Este "hola ha sido escrito desde el editor de git";
